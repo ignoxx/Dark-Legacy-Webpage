@@ -1,0 +1,43 @@
+#register_form
+{
+	/*background-color:white;*/
+	text-align:center;
+	width:500px;
+	font-size:15px;
+}
+.silver
+{
+	background-color:silver !important;
+}
+
+.white
+{
+	background-color:white !important;
+}
+th
+{
+	text-align:center;
+}
+td
+{
+	position:auto !important;
+}
+
+#message
+{
+	margin-top:-550px !important;
+	margin-left:auto !important;
+	margin-right:auto !important;
+}
+.closeButton:hover
+{
+	cursor:pointer;
+}
+
+.message2
+{
+	color:red;
+	font-size:15px;
+	text-align:center;
+	position:fixed;
+}
