@@ -17,3 +17,10 @@ Webpage for the game "Dark Legacy", which was a Stellar Legacy private server.
 * Using MySQL for calculating the ranking and order them desc
 * How to prevent mysql injections by escaping the string
 * How to connect to a MySQL DB using PHP
+* Hot to use Bootstrap
+# Images
+
+
+![Page 1](https://github.com/IgnasKavaliauskas/Dark-Legacy-Webpage/blob/master/Images/screenshot1.jpg.png)
+![Page 1](https://github.com/IgnasKavaliauskas/Dark-Legacy-Webpage/blob/master/Images/screenshot2.jpg.png)
+![Page 1](https://github.com/IgnasKavaliauskas/Dark-Legacy-Webpage/blob/master/Images/screenshot3.jpg.png)
